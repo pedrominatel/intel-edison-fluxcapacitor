@@ -1,0 +1,66 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "DoorBellFluxCap.xdk": {
+        "previousModTime": 1446895311359,
+        "modified": 1446895311359,
+        "seen": true,
+        "name": "DoorBellFluxCap.xdk"
+      },
+      "DoorBellFluxCap.xdke": {
+        "previousModTime": 1446907879583,
+        "modified": 1446907879583,
+        "seen": true,
+        "name": "DoorBellFluxCap.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1446895311183,
+        "modified": 1446895311183,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "lightsensor.html": {
+        "previousModTime": 1446895311183,
+        "modified": 1446895311183,
+        "seen": true,
+        "name": "lightsensor.html"
+      },
+      "main.js": {
+        "previousModTime": 1446908103815,
+        "modified": 1446908103815,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1446895311183,
+        "modified": 1446895311183,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1446895311183,
+        "modified": 1446895311183,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1446895311339,
+        "modified": 1446895311339,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1446908104175
+      }
+    }
+  }
+}
