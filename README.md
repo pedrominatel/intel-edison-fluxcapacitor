@@ -1,27 +1,7 @@
-A Web Server App
+Intel Edison Flux Capacitor
 ============================
-A simple node.js application to demonstrate some of the possibilities of using the board to serve data to a web page.
 
-The sample app reads the value of the light sensor and serves it as JSON to a web page, that is also served by the app.
-
-To run the app:
-
-1/ Check the ip address at line 23 of main.js and set it the the ip address of your board if neccessary. It is the ip address
-   you used to connect to your board.
-2/ Start the program, then start a browser on your host. We used Chrome, but the code should work with any browser.
-3/ Enter the URL http:/<ip address>:1337/lightsensor. A simple, and somewhat ugly thermometer will be displayed. 
-
-This code has been deliberately kept simple. Obvious improvements would be:
-
-1/ Change the way the thermometer is displayed. HTML5 has other ways to do this. There are also graphing packages that will no
-  doubt produce a prettier graphical display.
-
-2/ Improve the interpolation formula. The sample uses linear interpolation,  A higher order interpolation may be worthwhile.
-
-3/ There are packages that support more sophisticated web server development. You could replace the very crude code in the
-   example with such a package.
-
-4/ The ip address could be automatically detected instead of being hard coded.
+http://www.instructables.com/id/Flux-Capacitor-Door-Bell-using-Intel-Edison/
 
 Intel(R) XDK 
 -------------------------------------------
